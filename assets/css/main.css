@@ -3309,6 +3309,8 @@
 		text-align: center;
 		cursor: default;
 		padding: 10em 4em 9em 4em;
+		margin-top: -5%;
+		margin-bottom: -5%;
 	}
 
 		#banner input, #banner select, #banner textarea {
